@@ -298,3 +298,14 @@ XRDP + X11 + XFCE + WinSCP
 ```
 
 GNOME과 Wayland 조합은 서버 원격 GUI 환경에서는 불안정할 수 있으므로, 운영용 서버에서는 XFCE 기반으로 단순하게 구성하는 것이 적절합니다.
+
+---
+
+## 15. 추가 문서
+
+서버별 계정을 개별 생성하지 않고 중앙에서 관리하려면 다음 문서를 참고합니다.
+
+- [중앙 계정 관리 및 서버 계정 동기화 방안](./docs/account-sync/README.md)
+- [중앙 계정 동기화 아키텍처](./docs/account-sync/architecture.md)
+- [중앙 계정 관리 구축 작업계획서](./docs/account-sync/implementation-plan.md)
+- [중앙 계정 관리 운영 기준](./docs/account-sync/operations.md)
