@@ -226,6 +226,8 @@ sudo systemctl restart xrdp
 sudo systemctl restart xrdp-sesman
 ```
 
+주의: 전체 XRDP 접속자에게 영향을 줄 수 있으므로 관리자 절차로만 사용합니다.
+
 ### 2단계. 사용자 세션 파일 재설정
 
 Rocky Linux:
