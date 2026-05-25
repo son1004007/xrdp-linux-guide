@@ -1,0 +1,5 @@
+name,email,account_id,department,position,status,role
+User One,user01@example.com,user01,dev,staff,active,user
+User Two,u2@example.com,u2,analysis,staff,active,user
+Admin One,admin01@example.com,admin01,dev,manager,active,admin
+Inactive One,old01@example.com,old01,dev,staff,inactive,user
